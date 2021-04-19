@@ -1,0 +1,6 @@
+require 'yaml'
+require 'selenium-webdriver'
+require 'capybara'
+require 'site-prism'
+require 'rspec'
+require 'httparty'
