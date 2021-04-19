@@ -1,0 +1,6 @@
+Gemfile.lock
+/doc/
+/pkg/
+/.config
+/reports
+/.vscode
