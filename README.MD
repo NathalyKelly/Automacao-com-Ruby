@@ -24,10 +24,10 @@ Para executar algum cenário de API, basta mandar o comando:
 
 # Mapeamento
 
-- Os cenário estão em [features\specs\<SISTEMA>\<FLUXO>](features\specs)
-- Os steps estão em [features\step_definitions\<SISTEMA>\<FLUXO>](features\step_definitions)
-- OS mapeamentos das páginas estão em [features\page_objects\<SISTEMA>\<PAGINA>](features\page_objects)
-- As referências dos page_objects estão em [features\support\spec_helper\<SISTEMA>](features\support\spec_helper)
+- Os cenário estão em [features\specs\<SISTEMA>\<FLUXO>](features/specs)
+- Os steps estão em [features\step_definitions\<SISTEMA>\<FLUXO>](features/step_definitions)
+- OS mapeamentos das páginas estão em [features\page_objects\<SISTEMA>\<PAGINA>](features/page_objects)
+- As referências dos page_objects estão em [features\support\spec_helper\<SISTEMA>](features/support/spec_helper)
 
 # Metodos Criados
 
