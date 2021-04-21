@@ -1,0 +1,14 @@
+api_data:
+  http_status_code:
+    ok: 200
+    created: 201
+  address_infos:
+    zip: 12321100
+    street: 'Rua Inglaterra'
+    neighborhood: 'Jardim Siesta'
+    city: Jacareí
+    state: SP
+    ddd: '12'
+    ibge: '3524402'
+    gia: '3920'
+    siafi: '6589'
