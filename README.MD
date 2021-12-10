@@ -1,6 +1,6 @@
 # Repositório
 
-https://github.com/NathalyKelly/Teste-Lendico
+https://github.com/NathalyKelly/Automacao-com-Ruby
 
 # Pré-condição
 
