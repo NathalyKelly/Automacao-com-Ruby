@@ -46,3 +46,4 @@ Para executar algum cenário de API, basta mandar o comando:
 - [via_cep](features/support/spec_helper/via_cep.rb) > Método para instanciação do client da página do ViaCEP;
 
 # [Linkedin](https://www.linkedin.com/in/nathaly-silva-9ab537192/)
+# Automacao-Ruby-Web
